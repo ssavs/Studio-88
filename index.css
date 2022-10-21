@@ -1,0 +1,103 @@
+
+body {
+  background-image: url("./images/photo-1531685250784-7569952593d2.avif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+ background-size: cover;
+}
+
+.sidenav {
+  height: 100vh;
+  width: 5%;
+  position: fixed;
+  top: 0;
+  background-color: rgb(220, 14, 14);
+  display: block;;
+
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  color: #f4e6e6;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.fa {
+  padding: 20px;
+  padding-top: 20px;
+  font-size: 30px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 1px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background:#070707;
+  color: white;
+}
+
+.fa-twitter {
+  background: #0e0e0e;
+  color: white;
+}
+
+
+.fa-linkedin {
+  background: #111111;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: #0d0d0d;
+  color: white;
+}
+
+.icons {
+  float: right;
+}
+
+.heading h1 {
+  margin-left:  100px;
+}
+
+.heading h2 {
+  margin-left: 100px;
+}
+
+.heading h1 {
+  font-weight: 550;
+        font-size: 4.5rem;
+        line-height: 1;
+        margin: 1 0 2rem;
+}
+
+.heading h2 {
+  font-weight: 300;
+  font-size: 3.5rem;
+  line-height: 0.5;
+  margin: 1 0 2rem;
+}
+
+.heading {
+  padding-top: 5px;
+}
+
+.logoo{
+  float: right;
+  margin-left: 100px;
+  padding-top: 20px;
+  mix-blend-mode: darken;
+}
+
